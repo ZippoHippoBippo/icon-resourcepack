@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Made By ErrinDev",
+    "name": "Rank-Pack-v0.1",
+    "uuid": "55d711ec-c8ea-45ec-a271-601edd3710c0",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "82a7196c-ea8f-4204-af8b-34a7d94b7aff",
+      "version": [0, 0, 1]
+    }
+  ]
+}
