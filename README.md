@@ -5,7 +5,7 @@ To use simply upload the resource packs and with a service like mcpacks for java
 ## Character mappings: 
 
 ### Rank:
-
+UE800-UE812  
 > **Owner** -   
 > **Manager** -   
 > **Admin** -   
