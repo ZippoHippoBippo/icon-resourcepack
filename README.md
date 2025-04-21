@@ -1,5 +1,5 @@
-# Rank-Resourcepack
-Rank resource pack to add ranks to your minecraft server, for free.
+# icon-Resourcepack
+Icon packs to add icons to your minecraft server, for free.
 
 ![image](https://github.com/user-attachments/assets/b1acda6a-0a27-4dde-bfd8-0d9c2988bd00)
 
